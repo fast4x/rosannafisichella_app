@@ -1,12 +1,11 @@
 <widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="it.rinorusso.elite" version="1.0.0">
-  <name>Elite</name>
-  <description>Elite client</description>
+  <name>Rosanna</name>
+  <description>rosannafisichella.it</description>
   <author href="http://www.rinorusso.it" email="info@rinorusso.it">rinorusso.it</author>
   <content src="index.html"/>
   <preference name="DisallowOverscroll" value="true"/>
   <preference name="android-minSdkVersion" value="14"/>
-  <preference name="EnableViewportScale" value="true"/>
-  <preference name="PWEnablePhoneStatePermission" value="true" />
+  <preference name="EnableViewportScale" value="true"/>  
   <plugin name="cordova-plugin-battery-status" source="npm" spec="~1.1.1"/>
   <plugin name="cordova-plugin-camera" source="npm" spec="~2.1.1"/>
   <plugin name="cordova-plugin-media-capture" source="npm" spec="~1.2.0"/>
@@ -27,7 +26,6 @@
   <plugin name="cordova-plugin-statusbar" source="npm" spec="~2.1.2"/>
   <plugin name="cordova-plugin-vibration" source="npm" spec="~2.1.0"/>
   <plugin name="cordova-plugin-whitelist" source="npm" spec="~1.2.1"/>
-  <plugin name="com.sample.phonecalltrap" spec="0.0.1" source="pgb" />
   <icon src="icon.png" width="128" height="128"/>
   <platform name="android">  
     <icon src="icon.png" width="128" height="128"/>

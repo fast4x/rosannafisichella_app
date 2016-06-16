@@ -50,7 +50,8 @@ var app = {
         
 		//window.open(encodeURI("http://www.rinorusso.it"), '_self', 'location=no');
 		
-		 var ref = window.open('http://www.rosannafisichella.it', '_self', 'location=no');
+		// var ref = window.open('http://www.rosannafisichella.it', '_self', 'location=no');
+		 var ref = window.open('http://nuovo.rosannafisichella.it', '_self', 'location=no');
         // ref.addEventListener('loadstart', function(event) { alert('start: ' + event.url); });
         // ref.addEventListener('loadstop', function(event) { alert('stop: ' + event.url); });
         // ref.addEventListener('loaderror', function(event) { alert('error: ' + event.message); });
